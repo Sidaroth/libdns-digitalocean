@@ -1,4 +1,4 @@
-module github.com/sidaroth/libdns-digitalocean
+module github.com/Sidaroth/libdns-digitalocean
 
 go 1.14
 
